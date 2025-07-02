@@ -10,6 +10,7 @@ class PlaylistSongLink(SQLModel, table=True):
 
 
 class Song(SQLModel, table=True):
+   
     id: UUID = Field(default_factory=uuid4, primary_key=True, index=True)
     title: str
     length: int
