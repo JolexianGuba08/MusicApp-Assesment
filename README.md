@@ -1,5 +1,3 @@
-Here’s your exact README content reformatted for better **presentation and visual clarity**, while keeping your wording **unchanged**:
-
 ---
 
 # 🎵 Music App API
